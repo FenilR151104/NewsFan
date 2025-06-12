@@ -17,7 +17,7 @@ const App = () => {
   // pageSize = 8;
   const apiKey = process.env.REACT_APP_NEWS_API_KEY
   // apiKey = process.env.REACT_APP_NEWS_API_KEY
-  // "3a02625f4dab4c5498f486635498cdbe";
+  
 
   // state = {
   //   progress: 0
